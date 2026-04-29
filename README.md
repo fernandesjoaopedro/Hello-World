@@ -1,3 +1,3 @@
 # Hello World!
 
-## First repository of Git and GitHub course, from Gustavo Guanabara
+## First repository for the Git and GitHub course, by Gustavo Guanabara
