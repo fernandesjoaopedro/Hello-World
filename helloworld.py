@@ -1,2 +1,2 @@
 print ("Hello, World!")
-print ("Welcome to Python programming. My name is João")
+print ("Welcome to Python programming. My name is João Pedro")
